@@ -1,4 +1,5 @@
 # Training the Fully Convolutional Model
+This repository contains the code used for training FCN-based encoder-decoder model, described in the paper: "A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy" by Nisar Nellikunnumel, A.M.Barbour, L.Wiegart, T.Konstantinova and A.M.DeGennaro.
 
 ## 1. Setup Environment
 Create and activate the required Conda environment.
