@@ -2,7 +2,9 @@
 This repository contains the code used for training FCN-based Denoising Auto Encoder model, described in the paper: "A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy" by Nisar Nellikunnumel, A.M.Barbour, L.Wiegart, T.Konstantinova and A.M.DeGennaro.
 
 ### Files descriptions:
-* nets.py -- the class for the autoencoder model;
+* data_processing.py -- script for data augmentation;
+* driver.py -- top level script to run training;
+* Nets_FC.py -- the class for the autoencoder model;
 * train_and_test.py -- functions for model training, validation and testing;
 * utils.py -- auxiliary functions for model assembly, fixing the random seed, data loader, etc.
 * environment.yml -- files with required libraries for the scripts to run.
