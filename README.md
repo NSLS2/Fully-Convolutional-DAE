@@ -41,3 +41,8 @@ python driver.py \
   --output-dir `<output_dir>` \
   --seed `<seed>`
 ```
+
+## 4. Link for the data
+
+The data for training and testing the model:
+https://zenodo.org/records/20343306
