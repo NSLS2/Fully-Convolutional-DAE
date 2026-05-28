@@ -45,4 +45,4 @@ python driver.py \
 ## 4. Link for the data
 
 The data for training and testing the model:
-https://zenodo.org/records/20343306
+https://doi.org/10.5281/zenodo.20343306
