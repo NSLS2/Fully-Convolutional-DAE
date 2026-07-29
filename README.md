@@ -1,5 +1,5 @@
 # Fully Convolutional Denoising AutoEncoder
-This repository contains the code used for training FCN-based Denoising Auto Encoder model, described in the paper: "A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy" by Nisar Nellikunnumel, A.M.Barbour, L.Wiegart, T.Konstantinova and A.M.DeGennaro. The work was conducted at Brookhaven National Laboratory (BNL) in Upton, NY, with support from the USDOE Office of Science (SC), Basic Energy Sciences (BES), under Primary Award/Contract Number SC0012704 (Code ID: 69439).
+This repository contains the code used for training FCN-based Denoising Auto Encoder model, described in the paper: "A Fully Convolutional Approach to Denoising 2D Correlation Spectra" by Nisar Nellikunnumel, A.M.Barbour, L.Wiegart, T.Konstantinova and A.M.DeGennaro. The work was conducted at Brookhaven National Laboratory (BNL) in Upton, NY, with support from the USDOE Office of Science (SC), Basic Energy Sciences (BES), under Primary Award/Contract Number SC0012704 (Code ID: 69439).
 
 ### Files descriptions:
 * data_processing.py -- script for data augmentation;
